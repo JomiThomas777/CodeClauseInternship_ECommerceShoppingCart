@@ -1,18 +1,12 @@
-## Getting Started
+# ECommerceShoppingCart
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
 
-## Folder Structure
+ECommerceShoppingCart is a Java project built with Object-Oriented Programming principles to simulate an e-commerce shopping cart system. It provides functionalities for managing products, adding them to the cart, updating quantities, removing items, and calculating the total cost of the items in the cart.
 
-The workspace contains two folders by default, where:
+## Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Product Management**: Add, update, and remove products from the inventory.
+- **Shopping Cart Operations**: Add items to the cart, update quantities, and remove items.
+- **Total Cost Calculation**: Calculate the total cost of the items in the shopping cart.
+- **Object-Oriented Design**: Utilizes OOP principles for a modular and extensible codebase.
