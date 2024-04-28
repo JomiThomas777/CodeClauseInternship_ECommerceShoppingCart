@@ -1,8 +1,8 @@
-# ECommerceShoppingCart
+# E Commerce Shopping Cart
 
 ## Overview
 
-ECommerceShoppingCart is a Java project built with Object-Oriented Programming principles to simulate an e-commerce shopping cart system. It provides functionalities for managing products, adding them to the cart, updating quantities, removing items, and calculating the total cost of the items in the cart.
+E Commerce Shopping Cart is a Java project built with Object-Oriented Programming principles to simulate an e-commerce shopping cart system. It provides functionalities for managing products, adding them to the cart, updating quantities, removing items, and calculating the total cost of the items in the cart.
 
 ## Features
 
